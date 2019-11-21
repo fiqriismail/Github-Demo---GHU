@@ -8,6 +8,7 @@ namespace Github_Demo___GHU.Controllers
 {
     public class ProductsController : Controller
     {
+        // This is just to show pull requests
         public IActionResult Index()
         {
             return View();
